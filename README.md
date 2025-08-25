@@ -40,3 +40,10 @@ Max: 0.9741
 Min: 0.0317
 
 A CSV file (data.csv) will be generated in the project directory.
+
+## Linux Notes
+- `chmod +x run.sh`
+- `wget <url>`
+- `./run.sh`
+- `source venv/bin/activate`
+
