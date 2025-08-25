@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-git clone <repo_url>
+git clone https://github.com/cavdpak630/Day1_Project
 cd Day1_Project
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
